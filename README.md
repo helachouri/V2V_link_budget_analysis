@@ -1,4 +1,4 @@
-# V2V_link_budget
+# V2V Link Budget Calculator
 Graphical interface for V2V link budget analaysis made with Matlab and PHP
 
 Author : EL ACHOURI Hamza
